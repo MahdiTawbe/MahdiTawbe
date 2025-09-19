@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/MahdiTawbe" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" style="margin-right: 16px"></a> <a href="https://www.linkedin.com/in/mahdi-tawbe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 16px"></a> <a href="https://www.instagram.com/mahdi.t.__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" style="margin-right: 16px"></a></p>
 
- **<h3 align="left">🚀 Passionate  mobile app development.</h3>**
+ **<h3 align="left">🚀 Passionate  mobile  development.</h3>**
 <img align="right" alt="coding" width="150" height="150" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
  **<h3 align="center">Skills</h3>**
 
