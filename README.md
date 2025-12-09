@@ -21,10 +21,6 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center;"><img src="https://skillicons.dev/icons?i=dart" height="44" alt="Dart" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=flutter" height="44" alt="Flutter" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=firebase" height="44" alt="Firebase" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=supabase" height="44" alt="Supabase" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=figma" height="44" alt="Figma" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=vscode" height="44" alt="VSCode" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=androidstudio" height="44" alt="Androidstudio" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=kotlin" height="44" alt="Kotlin" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=javascript" height="44" alt="JavaScript" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=nodejs" height="44" alt="Node.js" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=express" height="44" alt="Express" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=mongodb" height="44" alt="MongoDB" style="margin-right: 18px"></div>
 
- **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahdiTawbe&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
 
 
